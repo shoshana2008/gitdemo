@@ -7,4 +7,4 @@ add to remote github
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 GIT COMMIT ADD MERGE
-git stash
+Git is a free software ...
